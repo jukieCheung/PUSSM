@@ -31,7 +31,6 @@ We release the pretrained weights for two point cloud upsampling models used in 
 - **Grad-PU**
 - **PUCRN**
 
-🗃️ [Link to pretrained weights - Coming Soon or Add Link Here]
 
 ## 🧠 Method Summary
 
