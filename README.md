@@ -2,7 +2,7 @@
 
 This repository provides the official framework implementation for our paper:
 
-**"PUSSM: Point Cloud Upsampling as Statistical Shape Model"**
+[**"PUSSM: Point Cloud Upsampling as Statistical Shape Model"**](https://arxiv.org/abs/2501.16716)
 
 PUSSM proposes a novel framework for high-fidelity anatomical reconstruction of pelvic structures by integrating medical image segmentation with point cloud upsampling. Instead of relying on landmarks or PCA for classical Statistical Shape Models (SSMs), PUSSM implicitly learns anatomical priors through deep neural networks trained on real medical data.
 
